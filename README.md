@@ -21,4 +21,4 @@ Smartnews is an AI-driven news aggregator app developed using Flutter. The app f
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/username/smartnews.git
+   git clone https://github.com/chididev01/SmartNews.git
